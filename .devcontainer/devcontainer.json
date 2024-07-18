@@ -85,7 +85,6 @@
 				],
 				"todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS).*(\\n\\s*//\\s{2,}.*)*",
 				"todo-tree.tree.autoRefresh": true,
-				"window.restoreWindows": "none",
 				"indentRainbow.ignoreErrorLanguages": [
 					"markdown",
 					"python",
@@ -96,6 +95,7 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.debugpy",
+				"ms-toolsai.jupyter",
 				"ms-python.autopep8",
 				"ms-python.flake8",
 				"oderwat.indent-rainbow",
